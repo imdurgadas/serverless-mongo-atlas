@@ -1,4 +1,4 @@
-const connectDatabase = require("../database/db");
+const { connectDatabase } = require("../database/db");
 const User = require("../models/user");
 
 module.exports.handler = async (event, context) => {
