@@ -13,6 +13,6 @@
     "validator": "13.7.0"
   },
   "devDependencies": {
-    "serverless-offline": "9.2.3"
+    "serverless-offline": "9.2.4"
   }
 }
