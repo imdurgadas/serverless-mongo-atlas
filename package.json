@@ -9,7 +9,7 @@
   "dependencies": {
     "bcryptjs": "2.4.3",
     "mongoose": "6.10.3",
-    "serverless-dotenv-plugin": "4.0.2",
+    "serverless-dotenv-plugin": "5.0.0",
     "validator": "13.9.0"
   },
   "devDependencies": {
