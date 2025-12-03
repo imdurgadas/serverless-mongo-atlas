@@ -7,7 +7,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bcryptjs": "2.4.3",
+    "bcryptjs": "3.0.3",
     "mongoose": "6.13.8",
     "serverless-dotenv-plugin": "4.0.2",
     "validator": "13.15.23"
